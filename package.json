@@ -1,10 +1,11 @@
 {
-  "name": "burger",
+  "name": "burgers_db",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Queen1tj",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,8 @@
     "express": "^4.17.1",
     "express-handlebars": "^5.1.0",
     "handlebars-helper-css": "^0.1.0",
+    "method-override": "^3.0.0",
     "mysql": "^2.18.1"
-  }
+  },
+  "devDependencies": {}
 }

@@ -1,0 +1,69 @@
+body {
+  font-family: "Acme", cursive;
+  background-image: url("https://st.depositphotos.com/1767252/4548/v/450/depositphotos_45486907-stock-illustration-seamless-checkered-background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 110px;
+  color: red;
+  text-align: center;
+}
+
+h3 {
+  font-size: 30px;
+  color: black;
+  font-family: "Acme", sans-serif;
+}
+
+img {
+  vertical-align: middle;
+  padding-top: 40px;
+}
+
+.jumbotron {
+  
+  text-align: center;
+}
+
+.intro {
+  width: 400px;
+}
+
+.panel {
+  background-image: url("https://img4.goodfon.com/wallpaper/nbig/5/53/abstract-colors-colorful-rainbow-background-fon-tsvet-raduga.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: "Acme", sans-serif;
+  color: black;
+  /* font-family: "Shadows Into Light", cursive; */
+  
+}
+
+.panel-heading {
+  background-image: url("https://img4.goodfon.com/wallpaper/nbig/5/53/abstract-colors-colorful-rainbow-background-fon-tsvet-raduga.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-family: "Acme", sans-serif;
+}
+.btn {
+  align-content: center;
+  text-align: center;
+  background-color: darkorange;
+}
+
+.form-group {
+  align-content: center;
+  justify-content: center;
+}
+label {
+  color: orangered;
+  font-size: 50px;
+}
