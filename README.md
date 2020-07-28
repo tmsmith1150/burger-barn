@@ -3,7 +3,7 @@
 
   Links to GitHub: https://github.com/tmsmith1150/burger
                    https://tmsmith1150.github.io/burger/.
-  Link to Deployed App: 
+  Link to Deployed App: https://hidden-tundra-27553.herokuapp.com/
   Link to Portfolio: https://tmsmith1150.github.io/portfolio/
 
 
