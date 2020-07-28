@@ -41,7 +41,7 @@ router.get("/", function(req, res) {
   
     console.log("condition", condition);
   
-    burger.update({
+    burger.remove({
       devoured: req.body.devour
     }, condition, function() {
       res.redirect("/");
