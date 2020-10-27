@@ -1,41 +1,4 @@
-# MY PROJECT
-  The Burger Barn
-
-  Links to GitHub: https://github.com/tmsmith1150/burger
-                   https://tmsmith1150.github.io/burger/.
-  Link to Deployed App: https://hidden-tundra-27553.herokuapp.com/
-  Link to Portfolio: https://tmsmith1150.github.io/portfolio/
-
-
-__##Description__
-Application that allows users to create, update and delete burgers.
-
-## Table of Contents
-- [Description](#Description)
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Contributing](#Contributing)
-- [Tests](#Tests)
-- [License](#License)
-- [Questions](#Questions)
-
-__##Installation__
-_To install the necessary dependencies, run the following command:_
-npm i
-
-__##Usage__
-
-
-__##License__
-MIT
-
-__##Contributing__
-
-
-__##Tests__
-_To run the necessary tests, run the following command:_
-npm run test
-
-__##Questions__
-![GitHub: tmsmith1150 : ](https://github.com/tmsmith1150?tab=repositories)
-![Email: tmsmith1150@live.com : ]("mailto:tmsmith1150@live.com")
+Burger Barn
+Burger Barn is a fun web application allowing users to create their own unique burger and then devour the burger. The application follows the MVC design pattern; using Node and MySQL to query and route data, and Handlebars to generate the HTML.
+Tech Used: Tech Used: MySql, Express, Node.js, Handlebars, Bootstrap and this project is deployed to Heroku.
+Check out the website! https://hidden-tundra-27553.herokuapp.com/
